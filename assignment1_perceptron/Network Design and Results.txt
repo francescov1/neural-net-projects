@@ -1,0 +1,24 @@
+
+1. Weights:
+
+Perceptron 1:
+- Initial weights = [0, 0, 0]
+- Final weights = [-5, 1.8, 2.4]
+
+Perceptron 2 = 
+- Initial weights = [-2000, 0, 0]
+- Final weights = [-1934, 353.35, 134.2 ]
+
+
+2. Total classification error = 0
+
+
+3. 
+Total number of iterations used:
+- Perceptron 1 = 5
+- Perceptron 2 = 13
+
+No terminating criteria was used. Instead, the networks were initially trained with a large number of iterations and an error vs. iterations plot was produced to determine the minimal iterations needed
+
+4.
+Precision = 1
